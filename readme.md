@@ -1,7 +1,7 @@
 ## План
 
 
-<embed src="https://github.com/serw2203/building-quest/blob/master/%D0%BF%D0%BB%D0%B0%D0%BD_%D0%BF%D0%B5%D1%80%D0%B2%D0%BE%D0%B3%D0%BE_%D1%8D%D1%82%D0%B0%D0%B6%D0%B0.pdf" style="width: 100%;height: 100%;border: none;"></embed>
+<iframe src="https://github.com/serw2203/building-quest/blob/master/%D0%BF%D0%BB%D0%B0%D0%BD_%D0%BF%D0%B5%D1%80%D0%B2%D0%BE%D0%B3%D0%BE_%D1%8D%D1%82%D0%B0%D0%B6%D0%B0.pdf" style="width: 100%;height: 100%;border: none;"></iframe>
 
 # Замеры
 
