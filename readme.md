@@ -1,7 +1,7 @@
 ## План
 
 
-<iframe src="план_первого_этажа.pdf" style="width: 100%;height: 100%;border: none;"></iframe>
+<embed src="план_первого_этажа.pdf" style="width: 100%;height: 100%;border: none;"></embed>
 
 # Замеры
 
